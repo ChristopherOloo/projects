@@ -1,0 +1,19 @@
+/*my_css.css*/
+
+/*element selection*/
+
+ h3{  color:blue;}
+
+/*class selection*/
+
+.c_head{ 
+   font-family:cursive;
+   color:orange;}
+
+/*id selection*/
+
+#i_head{
+  font-variant:small-caps;
+  color:red;}
+
+
