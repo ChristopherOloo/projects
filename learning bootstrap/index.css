@@ -1,0 +1,71 @@
+body{
+  font-size: 62%;
+  font-family: arial, san-serif;
+}
+/*.jumbotron{
+  background-color: #2E2D88;
+  color: white;
+}*/
+.tab-content{
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  padding: 10px;
+}
+
+.nav-tabs{
+  margin-bottom: 0;
+}
+
+#nttLogo{
+  height: 100px;
+  width: 100px;
+}
+
+#websiteTitle{
+  font-size:10em;
+  vertical-align: middle;
+  font-family: cursive;
+  padding-left: 15px;
+  color: #191970;
+  
+}
+
+#websiteSlogan{
+  font-size: 5.4em;
+}
+
+
+.slide1{
+  background-image: url('img1.jpg');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.slide2{
+  background-image: url('img2.jpg');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.slide3{
+  background-image: url('img3.jpg');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.carousel-caption h1{
+  font-size: 5.4em;
+  font-family: cursive;
+  padding-bottom: .4em;
+}
+
+.carousel-caption p{
+  font-size: 2em;
+}
